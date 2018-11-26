@@ -18,7 +18,8 @@
     "lodash.clamp": "^4.0.1",
     "lodash.memoize": "^4.0.1",
     "lodash.padstart": "^4.2.0",
-    "prop-types": "^15.6.0"
+    "prop-types": "^15.6.0",
+    "spectacle": "^5.2.2"
   },
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0",
@@ -30,7 +31,6 @@
     "babel-preset-react": "^6.11.1",
     "babel-preset-stage-1": "^6.11.4",
     "react": "^16.6.3",
-    "react-dom": "^16.6.3",
-    "spectacle": "^5.2.2"
+    "react-dom": "^16.6.3"
   }
 }

@@ -1,7 +1,7 @@
 const React = require('react');
 const PropTypes = require('prop-types');
 
-const {Slide} = require('spectacle');
+const { Slide } = require('spectacle');
 const CodeSlideTitle = require('./CodeSlideTitle');
 const CodeSlideNote = require('./CodeSlideNote');
 const CodeSlideImage = require('./CodeSlideImage');
