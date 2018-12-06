@@ -1,6 +1,6 @@
 {
-  "name": "spectacle-code-slide",
-  "version": "0.5.2",
+  "name": "@magoo/spectacle-code-slide",
+  "version": "0.5.3",
   "description": "Present code with style.",
   "main": "lib/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "author": "James Kyle <me@thejameskyle.com>",
   "license": "MIT",
-  "repository": "thejameskyle/spectacle-code-slide",
+  "repository": "adaschevici/spectacle-code-slide",
   "dependencies": {
     "component-raf": "^1.2.0",
     "component-tween": "^1.2.0",
